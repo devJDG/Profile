@@ -1,20 +1,13 @@
 # Profile
 This my profile 
 <h1>Hello👋, I'm JM</h1>
-<b>I am John Michael Balatico. A student of <a href="https://www.feutech.edu.ph/">FEU Institute of Technology</a> pursuing a Bachelor's Degree in Computer Engineering . I like coding💻  and reading manhwa 📖.
-I aspire to be a Full Stack Developer. I'm passionate about programming, and willing to learn different technologies.</b>
+<b>I am Jethro De Guzman. A student of <a href="https://www.feutech.edu.ph/">FEU Institute of Technology</a> pursuing a Bachelor's Degree in Computer Engineering . I like coding💻  and reading manga 📖.
+I aspire to be a Block Chain Developer. I'm passionate about programming, and willing to learn different technologies.</b>
 <br>
 <br>
 
-- 🌱 I’m currently learning Django and React integration<br>
-- 👀 I’m interested in Machine Learning
-- 📫 You can reach me with <a href="mailto:jmbalatico.28.jb@gmail.com" target="_blank">jmbalatico.28.jb@gmail.com</a>.<br>
-<!---
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
+- 📫 You can reach me with <a href="mailto:jethrodeguzman.jdg@gmail.com" target="_blank">jethrodeguzman.jdg@gmail.com</a>.<br>
+
 <!---
 Emmm-07/Emmm-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
