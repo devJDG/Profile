@@ -1,17 +1,12 @@
 # Profile
 This my profile 
 <h1>Hello👋, I'm Jethro</h1>
-<b>I am Jethro De Guzman. A student of <a href="https://www.feutech.edu.ph/">FEU Institute of Technology</a> pursuing a Bachelor's Degree in Computer Engineering . I like coding💻  and reading manga 📖.
-I aspire to be a Block Chain Developer. I'm passionate about programming, and willing to learn different technologies.</b>
+<b>I am Jethro De Guzman. A student of <a href="https://www.feutech.edu.ph/">FEU Institute of Technology</a> pursuing a Bachelor's Degree in Computer Engineering . I code💻 I chat GPT 📖. I'm not the best at programming, but I'm willing to learn different technologies.</b>
 <br>
 <br>
 
 - 📫 You can reach me with <a href="mailto:jethrodeguzman.jdg@gmail.com" target="_blank">jethrodeguzman.jdg@gmail.com</a>.<br>
 
-<!---
-Emmm-07/Emmm-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <br><br>
 <hr>
 
